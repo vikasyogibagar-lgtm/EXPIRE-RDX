@@ -1,9 +1,6 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "NEW UPDATE AVAILABLE",
-  "message": "MOD MENU EXPIRED ! PLEASE UPDATE YOUR MOD MENU",
-  "UpdateButtonText": "UPDATE NOW",
-  "UpdateButtonUrl": "https://t.me/+-CrsC1wqr540N2Jl"
+  "message": "THIS MOD MENU EXPIRED PLESE DOWNLOAD YOUR UPDATE MOD MENU",
+  "expirationDate": "2025-12-04 23:59:59",
+  "dateFormat": "yyyy-MM-dd HH:mm:ss",
+  "buttonLink": "https://t.me/+-CrsC1wqr540N2Jl"
 }
