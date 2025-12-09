@@ -1,16 +1,9 @@
-[
-    {
-        "device_id": "d3f65aa32f731fa6",
-        "username": "rdx1",
-        "password": "pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device1236",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
-]
+{
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "NEW UPDATE AVAILABLE",
+  "message": "MOD MENU EXPIRED ! PLEASE UPDATE YOUR MOD MENU",
+  "UpdateButtonText": "UPDATE NOW",
+  "UpdateButtonUrl": "https://t.me/+-CrsC1wqr540N2Jl"
+}
